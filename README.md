@@ -30,7 +30,7 @@ Catch the Eggs is a simple Java game where the player controls a bucket to catch
 ![Gameplay Screenshot](screenshot.png)
 
 ## Credits
-- This game was developed by [Your Name] as a Java programming exercise.
+- This game was developed by (contributers.md) as a Java programming exercise.
 - Images used in the game are sourced from [source] (provide credits if applicable).
 
 ## License
